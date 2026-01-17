@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi 👋 I'm Devshayani
 
-<!--
-**7devshayanii/7devshayanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Computer Science student aspiring software developer  
+💻 Interested in Python, Java, and web technologies  
+🌱 Currently learning backend development and databases  
+🚀 Actively building projects and preparing for internships
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python, Java, C  
+- HTML, CSS, JavaScript  
+- MySQL, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- **Student Management System** – A basic CRUD application to manage student records using Java and MySQL.  
+- **Personal Portfolio Website** – A responsive website built using HTML, CSS, and JavaScript to showcase skills and projects.

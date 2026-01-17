@@ -6,7 +6,7 @@
 🚀 Actively building projects and preparing for internships
 
 ## 🛠️ Skills
-- Python, Java, C  
+- Python, .net ,java
 - HTML, CSS, JavaScript  
 - MySQL, Git, GitHub
 
